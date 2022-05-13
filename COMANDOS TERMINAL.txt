@@ -1,0 +1,3 @@
+ng g(generate) m(module) dbz(dragon ball z, es el nombre del modulo)
+
+ng g(generate) c(component) dbz/mainPage --skipTests(esto evita la creacion de los modulos de testing)
